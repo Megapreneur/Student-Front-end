@@ -1,0 +1,38 @@
+.addStudent-component{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.centre-top{
+    width: 100%;
+    height: 15%;
+    background-color: white;
+}
+.twoSided-container{
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+.leftSide{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+
+}
+.rightSide{
+    background-color: goldenrod;
+    width: 50%;
+    height: 100%;
+    
+}
+.rightSide h3{
+    text-align: center;
+    margin-top: 70px;
+}
+.button-Container{
+    
+}
